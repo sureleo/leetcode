@@ -4,7 +4,6 @@ class Solution:
     def longestValidParentheses(self, s):
         stack = []
         result = [-1 for i in xrange(len(s))]
-        counter = 0
         maximum = 0
         curr = 0
         
@@ -12,12 +11,11 @@ class Solution:
             if s[i] == "(":
                 stack.append(i)
             else:
-                if len(stack) == 0:
-                    result = max(counter, result)
-                else:
-                    j = stack.pop()
-                    result[j] = j
-                    result[i] = i
+                if stack == []:
+                    continue
+                j = stack.pop()
+                result[j] = j
+                result[i] = i
 
         for i in xrange(len(result)):
             if result[i] == i:
@@ -31,5 +29,6 @@ class Solution:
 if __name__ == "__main__":
     solution = Solution()
 
-    print solution.longestValidParentheses("()")
+    #print solution.longestValidParentheses("()")
+    print solution.longestValidParentheses(")")
     #print solution.longestValidParentheses("()(()")
