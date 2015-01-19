@@ -11,4 +11,6 @@ Happy coding Happy Life.
 
 Discussions are welcomed.
 
+Update Jan/19: I'm starting add C++ solution.
+
 TODO: 0. beautify readme.md 1. Complete some solution with document.
