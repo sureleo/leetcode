@@ -14,6 +14,7 @@ class Solution:
             total_col += (extra - nRows)
         if extra > 0:
             total_col += 1
+
             
         matrix = [["" for i in xrange(total_col)] for i in xrange(nRows)]
         
@@ -41,4 +42,5 @@ class Solution:
 if __name__ == "__main__":
     solution = Solution()
 
-    print solution.convert("PAYPALISHIRING", 3)
+    #print solution.convert("PAYPALISHIRING", 4)
+    print solution.convert("A", 2)
