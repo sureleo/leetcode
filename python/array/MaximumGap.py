@@ -1,5 +1,7 @@
 # Knows sth new: Radix Sort
-# 
+# at first, I thought about Counting Sort and Bucket Sort,
+# But I don't think this is practical when the range is huge, i.e. [1, INT_MAX]
+# radix sort is better, It should be O(10n)
 # http://yucoding.blogspot.com/2014/12/leetcode-question-maximum-gap.html
 class Solution:
     # @param num, a list of integer
