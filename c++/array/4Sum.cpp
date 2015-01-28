@@ -1,3 +1,8 @@
+//My code can't pass OJ at first, it turns out my code is not clean enough due
+//to unfamiliar with C++.
+//Tried to use the same data structure and style with this blog
+//http://www.cnblogs.com/tenosdoit/p/3649607.html
+//it quite helped
 class Solution {
 public:
     std::vector<std::vector<int> > fourSum(std::vector<int> &num, int target) {
