@@ -18,17 +18,10 @@ class Solution:
                 target = A[i] - 1
                 A[i] = A[target]
                 A[target] = temp
-            
 
-        meet_one = False
         for i in xrange(len(A)):
-            if not meet_one and A[i] == 1:
-                meet_one = True
-            if meet_one and A[i] != i+1:
+            if A[i] != i+1:
                 return i+1
-
-        if not meet_one:
-            return 1
 
         return len(A) + 1
 
