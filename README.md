@@ -14,6 +14,6 @@ Discussions are welcomed.
 
 Update Jan/19: I'm starting add C++ solution.
 
-|Title                                                    |C++|Java|Python|
-|---------------------------------------------------------|---|----|----------------------------------------------------------------------------------------------------------------------|
-|Construct Binary Tree From Postorder and Inorder Traversa|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/ConstructBinaryTreeFromPreorderAndInorderTraversal.py)|
+|#  |Title                                                     |C++|Java|Python|
+|---|----------------------------------------------------------|---|----|----------------------------------------------------------------------------------------------------------------------|
+|106|Construct Binary Tree from Postorder and Inorder Traversal|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/ConstructBinaryTreeFromPreorderAndInorderTraversal.py)|
