@@ -17,4 +17,6 @@ Update Jan/19: I'm starting add C++ solution.
 |#  |Title                                                     |C++|Java|Python|
 |---|----------------------------------------------------------|---|----|----------------------------------------------------------------------------------------------------------------------|
 |106|Construct Binary Tree from Postorder and Inorder Traversal|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/ConstructBinaryTreeFromPreorderAndInorderTraversal.py)|
+|138|Copy List With Random Pointer|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/CopyListWithRandomPointer.py)|
 |146|LRU Cache|[C++](https://github.com/sureleo/leetcode/blob/master/c%2B%2B/LRUCache.cpp)|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/LRUCache.py)|
+
