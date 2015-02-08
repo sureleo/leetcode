@@ -26,6 +26,7 @@ Update Jan/19: I'm starting add C++ solution.
 |101|Symmetric Tree|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/SymmetricTree.py)|
 |106|Construct Binary Tree from Postorder and Inorder Traversal|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/ConstructBinaryTreeFromPreorderAndInorderTraversal.py)|
 |138|Copy List With Random Pointer|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/CopyListWithRandomPointer.py)|
+|139|Word Break|[C++](https://github.com/sureleo/leetcode/blob/master/cpp/WordBreak.cpp)|----|------|
 |141|Linked List Cycles|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/LinkedListCycle.py)|
 |143|Reorder List|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/ReorderList.py)|
 |145|Binary Tree Postorder Traversal|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/BinaryTreePostorderTraversal.cpp)|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/BinaryTreePostorderTraversal.py)|
