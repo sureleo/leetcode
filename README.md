@@ -16,6 +16,8 @@ Update Jan/19: I'm starting add C++ solution.
 
 |#  |Title                                                     |CPP|Java|Python|
 |---|----------------------------------------------------------|---|----|----------------------------------------------------------------------------------------------------------------------|
+|0|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/)|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/)|
+|1|Two Sum|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/TwoSum.cpp)|----|------|
 |19|Remove Nth Node From End Of List|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveNthFromEndOfList.py)|
 |25|Reverse Nodes In K Group|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/ReverseNodesInKGroup.py)|
 |61|Rotate List|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/RotateList.py)|
