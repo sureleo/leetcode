@@ -28,7 +28,7 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |82|Remove Duplicates From Sorted List II|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/RemoveDuplicatesFromSortedListII.cpp)|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveDuplicatesFromSortedListII.py)|
 |83|Remove Duplicates From Sorted List|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveDuplicatesFromSortedList.py)|
 |85|Maximal Rectangle|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/MaximalRectangle.cpp)|----|------|
-|92|Reverse Linked List II|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/ReverseLinkedListII.py)|
+|92|Reverse Linked List II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ReverseLinkedListII.py)|[Python](https://github.com/sureleo/leetcode/blob/master/python/ReverseLinkedListII.py)|
 |94|Binary Tree Inorder Traversal|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/BinaryTreeInorderTraversal.py)|
 |101|Symmetric Tree|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/SymmetricTree.py)|
 |106|Construct Binary Tree from Postorder and Inorder Traversal|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/ConstructBinaryTreeFromPreorderAndInorderTraversal.py)|
