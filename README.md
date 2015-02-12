@@ -1,10 +1,9 @@
 leetcode
 ========
 
-This is just for the record.
+This is for the record. --- Captain Price
 
-
-Some of the codes are from Internet. Please let me know if you feel I made you uncomfortable.
+Some of the codes are from Internet. Please let me know if you uncomfortable that I cited your code.
 
 I will add "cite from xxxx's blog" after commit 5c12d182238be056fd2ca6c98adeacdee1f254ed if I have refered somebody's code.
 
@@ -13,6 +12,8 @@ Happy coding Happy Life.
 Discussions are welcomed.
 
 Update Jan/19: I'm starting add C++ solution.
+
+Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 
 |#  |Title                                                     |CPP|Java|Python|
 |---|----------------------------------------------------------|---|----|----------------------------------------------------------------------------------------------------------------------|
