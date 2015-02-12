@@ -38,5 +38,5 @@ Update Jan/19: I'm starting add C++ solution.
 |143|Reorder List|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/ReorderList.py)|
 |145|Binary Tree Postorder Traversal|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/BinaryTreePostorderTraversal.cpp)|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/BinaryTreePostorderTraversal.py)|
 |146|LRU Cache|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/LRUCache.cpp)|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/LRUCache.py)|
-|147|Insertion Sort List|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/InsertionSortList.py)|
+|147|Insertion Sort List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/InsertionSortList.py)|[Python](https://github.com/sureleo/leetcode/blob/master/python/InsertionSortList.py)|
 |148|Sort List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SortList.py)|[Python](https://github.com/sureleo/leetcode/blob/master/python/SortList.py)|
