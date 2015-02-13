@@ -24,6 +24,7 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |19|Remove Nth Node From End Of List|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveNthFromEndOfList.py)|
 |25|Reverse Nodes In K Group|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/ReverseNodesInKGroup.py)|
 |36|Valid Sudoku|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/ValidSudoku.cpp)|----|------|
+|42|Trapping Rain Water|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/TrappingRainWater.java)|------|
 |61|Rotate List|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/RotateList.py)|
 |70|Climbing Stairs|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/ClimbingStairs.cpp)|----|------|
 |74|Search A 2D Matrix|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SearchA2DMatrix.java)|------|
