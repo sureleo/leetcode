@@ -38,6 +38,7 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |139|Word Break|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/WordBreak.cpp)|----|------|
 |141|Linked List Cycles|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/LinkedListCycle.py)|
 |143|Reorder List|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/ReorderList.py)|
+|144|Binary Tree Preorder Traversal|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/BinaryTreePreorderTraversal.java)|------|
 |145|Binary Tree Postorder Traversal|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/BinaryTreePostorderTraversal.cpp)|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/BinaryTreePostorderTraversal.py)|
 |146|LRU Cache|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/LRUCache.cpp)|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/LRUCache.py)|
 |147|Insertion Sort List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/InsertionSortList.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/InsertionSortList.py)|
