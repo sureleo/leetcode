@@ -17,9 +17,10 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 
 |#  |Title                                                     |CPP|Java|Python|
 |---|----------------------------------------------------------|---|----|----------------------------------------------------------------------------------------------------------------------|
-|0|-----|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/)|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/)|
+|0|-----|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/)|[Java](https://github.com/sureleo/leetcode/blob/master/java/)|[Python](https://github.com/sureleo/leetcode/blob/master/python/)|
 |1|Two Sum|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/TwoSum.cpp)|----|------|
 |3|Longest Substring Without Repeating Characters|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/LongestSubstringWithoutRepeatingCharacters.cpp)|----|------|
+|16|3Sum Closest|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/3SumClosest.java)|------|
 |19|Remove Nth Node From End Of List|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveNthFromEndOfList.py)|
 |25|Reverse Nodes In K Group|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/ReverseNodesInKGroup.py)|
 |36|Valid Sudoku|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/ValidSudoku.cpp)|----|------|
