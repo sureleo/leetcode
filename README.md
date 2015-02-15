@@ -46,4 +46,4 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |146|LRU Cache|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/LRUCache.cpp)|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/LRUCache.py)|
 |147|Insertion Sort List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/InsertionSortList.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/InsertionSortList.py)|
 |148|Sort List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SortList.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/SortList.py)|
-|148|Intersection Of Two Linked List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/IntersectionOfTwoLinkedList.java)|------|
+|160|Intersection Of Two Linked List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/IntersectionOfTwoLinkedList.java)|------|
