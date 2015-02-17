@@ -40,7 +40,7 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |94|Binary Tree Inorder Traversal|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/BinaryTreeInorderTraversal.py)|
 |101|Symmetric Tree|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/SymmetricTree.py)|
 |102|Binary Tree Level Order Traversal|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/BinaryTreeLevelOrderTraversal.java)|------|
-|105|Construct Binary Tree from Preorder and Inorder Traversal|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/ConstructBinaryTreeFromPreorderAndInorderTraversal.py)|
+|105|Construct Binary Tree from Preorder and Inorder Traversal|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ConstructBinaryTreeFromPreorderAndInorderTraversal.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/ConstructBinaryTreeFromPreorderAndInorderTraversal.py)|
 |106|Construct Binary Tree from Inorder and Postorder Traversal|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ConstructBinaryTreeFromInorderAndPostorderTraversal.java)|------|
 |107|Binary Tree Level Order Traversal II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/BinaryTreeLevelOrderTraversalII.java)|------|
 |108|Convert Sorted Array To Binary Search Tree|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/ConvertSortedArrayToBinarySearchTree.cpp)|----|------|
