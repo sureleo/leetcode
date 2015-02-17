@@ -44,6 +44,7 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |106|Construct Binary Tree from Inorder and Postorder Traversal|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ConstructBinaryTreeFromInorderAndPostorderTraversal.java)|------|
 |107|Binary Tree Level Order Traversal II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/BinaryTreeLevelOrderTraversalII.java)|------|
 |108|Convert Sorted Array To Binary Search Tree|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/ConvertSortedArrayToBinarySearchTree.cpp)|----|------|
+|111|Minimum Depth Of Binary Tree|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MinimumDepthOfBinaryTree.java)|------|
 |114|Flatten Binary Tree To Linked List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/FlattenBinaryTreeToLinkedList.java)|------|
 |134|Gas Station|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/GasStation.java)|------|
 |138|Copy List With Random Pointer|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/CopyListWithRandomPointer.py)|
