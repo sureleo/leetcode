@@ -21,6 +21,7 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |1|Two Sum|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/TwoSum.cpp)|----|------|
 |3|Longest Substring Without Repeating Characters|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/LongestSubstringWithoutRepeatingCharacters.cpp)|----|------|
 |14|Longest Common Prefix|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/LongestCommonPrefix.java)|------|
+|16|3Sum|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/3Sum.java)|------|
 |16|3Sum Closest|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/3SumClosest.java)|------|
 |19|Remove Nth Node From End Of List|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveNthFromEndOfList.py)|
 |25|Reverse Nodes In K Group|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/ReverseNodesInKGroup.py)|
