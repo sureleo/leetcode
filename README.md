@@ -25,6 +25,7 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |16|3Sum Closest|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/3SumClosest.java)|------|
 |18|4Sum|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/4Sum.java)|------|
 |19|Remove Nth Node From End Of List|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveNthFromEndOfList.py)|
+|24|Swap Nodes In Pairs|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SwapNodesInPairs.java)|------|
 |25|Reverse Nodes In K Group|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/ReverseNodesInKGroup.py)|
 |36|Valid Sudoku|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/ValidSudoku.cpp)|----|------|
 |42|Trapping Rain Water|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/TrappingRainWater.java)|------|
