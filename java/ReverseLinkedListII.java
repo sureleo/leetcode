@@ -23,10 +23,9 @@ public class Solution {
         i = 0;
         while (i < n-m) {
             ListNode tmp = new_tail.next;
-            ListNode tmp1 = p.next;
-            p.next = new_tail.next;
             new_tail.next = new_tail.next.next;
-            tmp.next = tmp1;
+            tmp.next = p.next;
+            p.next = tmp;
             i++;
         }
         return dummy.next;
