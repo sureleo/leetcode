@@ -41,6 +41,7 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |85|Maximal Rectangle|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/MaximalRectangle.cpp)|----|------|
 |92|Reverse Linked List II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ReverseLinkedListII.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/ReverseLinkedListII.py)|
 |94|Binary Tree Inorder Traversal|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/BinaryTreeInorderTraversal.py)|
+|98|Validate Binary Search Tree|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ValidateBinarySearchTree.java)|------|
 |101|Symmetric Tree|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/SymmetricTree.py)|
 |102|Binary Tree Level Order Traversal|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/BinaryTreeLevelOrderTraversal.java)|------|
 |105|Construct Binary Tree from Preorder and Inorder Traversal|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ConstructBinaryTreeFromPreorderAndInorderTraversal.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/ConstructBinaryTreeFromPreorderAndInorderTraversal.py)|
