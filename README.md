@@ -36,6 +36,7 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |72|Edit Distance|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/EditDistance.java)|------|
 |74|Search A 2D Matrix|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SearchA2DMatrix.java)|------|
 |76|Minimum Window String|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MinimumWindowString.java)|------|
+|78|Subsets|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/Subsets.java)|------|
 |82|Remove Duplicates From Sorted List II|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/RemoveDuplicatesFromSortedListII.cpp)|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveDuplicatesFromSortedListII.py)|
 |83|Remove Duplicates From Sorted List|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveDuplicatesFromSortedList.py)|
 |85|Maximal Rectangle|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/MaximalRectangle.cpp)|----|------|
