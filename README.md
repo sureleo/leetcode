@@ -37,7 +37,6 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |72|Edit Distance|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/EditDistance.java)|------|
 |74|Search A 2D Matrix|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SearchA2DMatrix.java)|------|
 |76|Minimum Window String|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MinimumWindowString.java)|------|
-|76|Minimum Window String|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MinimumWindowString.java)|------|
 |77|Combinations|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/Combinations.java)|------|
 |82|Remove Duplicates From Sorted List II|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/RemoveDuplicatesFromSortedListII.cpp)|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveDuplicatesFromSortedListII.py)|
 |83|Remove Duplicates From Sorted List|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveDuplicatesFromSortedList.py)|
@@ -53,6 +52,7 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |108|Convert Sorted Array To Binary Search Tree|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/ConvertSortedArrayToBinarySearchTree.cpp)|----|------|
 |111|Minimum Depth Of Binary Tree|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MinimumDepthOfBinaryTree.java)|------|
 |114|Flatten Binary Tree To Linked List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/FlattenBinaryTreeToLinkedList.java)|------|
+|117|Populating Next Right Pointers In Each Node II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/PopulatingNextRightPointersInEachNodeII.java)|------|
 |134|Gas Station|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/GasStation.java)|------|
 |138|Copy List With Random Pointer|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/CopyListWithRandomPointer.py)|
 |139|Word Break|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/WordBreak.cpp)|----|------|
