@@ -24,6 +24,7 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |14|Longest Common Prefix|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/LongestCommonPrefix.java)|------|
 |15|3Sum|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/3Sum.java)|------|
 |16|3Sum Closest|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/3SumClosest.java)|------|
+|17|Letter Combinations Of A Phone Number|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/LetterCombinationsOfAPhoneNumber.java)|------|
 |18|4Sum|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/4Sum.java)|------|
 |19|Remove Nth Node From End Of List|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveNthFromEndOfList.py)|
 |24|Swap Nodes In Pairs|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SwapNodesInPairs.java)|------|
