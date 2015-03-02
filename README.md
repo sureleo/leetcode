@@ -66,7 +66,7 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |136|Single Number|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SingleNumber.java)|------|
 |138|Copy List With Random Pointer|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/CopyListWithRandomPointer.py)|
 |139|Word Break|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/WordBreak.cpp)|----|------|
-|141|Linked List Cycles|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/LinkedListCycle.py)|
+|141|Linked List Cycle|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/LinkedListCycle.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/LinkedListCycle.py)|
 |143|Reorder List|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/ReorderList.py)|
 |144|Binary Tree Preorder Traversal|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/BinaryTreePreorderTraversal.java)|------|
 |145|Binary Tree Postorder Traversal|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/BinaryTreePostorderTraversal.cpp)|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/BinaryTreePostorderTraversal.py)|
