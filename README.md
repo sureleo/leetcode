@@ -75,3 +75,4 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |165|Compare Version Numbers|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/CompareVersionNumbers.java)|------|
 |173|Binary Search Tree Iterator|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/BinarySearchTreeIterator.java)|------|
 |187|Repeated DNA Sequences|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RepeatedDNASequences.java)|------|
+|189|Rotate Array|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RotateArray.java)|------|
