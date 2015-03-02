@@ -36,6 +36,7 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |56|Merge Intervals|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MergeIntervals.java)|------|
 |57|Insert Interval|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/InsertInterval.java)|------|
 |61|Rotate List|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/RotateList.py)|
+|67|Add Binary|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/AddBinary.java)|------|
 |70|Climbing Stairs|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/ClimbingStairs.cpp)|----|------|
 |72|Edit Distance|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/EditDistance.java)|------|
 |74|Search A 2D Matrix|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SearchA2DMatrix.java)|------|
