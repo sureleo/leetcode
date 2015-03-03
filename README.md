@@ -46,6 +46,7 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |82|Remove Duplicates From Sorted List II|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/RemoveDuplicatesFromSortedListII.cpp)|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveDuplicatesFromSortedListII.py)|
 |83|Remove Duplicates From Sorted List|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveDuplicatesFromSortedList.py)|
 |85|Maximal Rectangle|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/MaximalRectangle.cpp)|----|------|
+|89|Gray Code|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/GrayCode.java)|------|
 |92|Reverse Linked List II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ReverseLinkedListII.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/ReverseLinkedListII.py)|
 |94|Binary Tree Inorder Traversal|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/BinaryTreeInorderTraversal.py)|
 |96|Unique Binary Search Trees|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/UniqueBinarySearchTrees.java)|------|
