@@ -76,6 +76,7 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |148|Sort List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SortList.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/SortList.py)|
 |150|Evaluate Reverse Polish Notation|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/EvaluateReversePolishNotation.java)|------|
 |160|Intersection Of Two Linked List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/IntersectionOfTwoLinkedList.java)|------|
+|162|Find Peak Element|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/FindPeakElement.java)|------|
 |165|Compare Version Numbers|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/CompareVersionNumbers.java)|------|
 |173|Binary Search Tree Iterator|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/BinarySearchTreeIterator.java)|------|
 |187|Repeated DNA Sequences|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RepeatedDNASequences.java)|------|
