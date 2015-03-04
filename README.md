@@ -65,6 +65,7 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |117|Populating Next Right Pointers In Each Node II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/PopulatingNextRightPointersInEachNodeII.java)|------|
 |120|Triangle|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/Triangle.java)|------|
 |130|Surrounded Regions|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SurroundedRegions.java)|------|
+|131|Palindrome Partitioning|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/PalindromePartitioning.java)|------|
 |134|Gas Station|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/GasStation.java)|------|
 |136|Single Number|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SingleNumber.java)|------|
 |138|Copy List With Random Pointer|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/CopyListWithRandomPointer.py)|
