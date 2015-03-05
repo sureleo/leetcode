@@ -44,6 +44,7 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |70|Climbing Stairs|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/ClimbingStairs.cpp)|----|------|
 |72|Edit Distance|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/EditDistance.java)|------|
 |74|Search A 2D Matrix|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SearchA2DMatrix.java)|------|
+|75|Sort Colors|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SortColors.java)|------|
 |76|Minimum Window String|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MinimumWindowString.java)|------|
 |77|Combinations|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/Combinations.java)|------|
 |82|Remove Duplicates From Sorted List II|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/RemoveDuplicatesFromSortedListII.cpp)|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveDuplicatesFromSortedListII.py)|
