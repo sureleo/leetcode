@@ -30,6 +30,7 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |18|4Sum|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/4Sum.java)|------|
 |19|Remove Nth Node From End Of List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RemoveNthNodeFromEndOfList.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveNthFromEndOfList.py)|
 |20|Valid Parentheses|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ValidParentheses.java)|------|
+|21|Merge Two Sorted Lists|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MergeTwoSortedLists.java)|------|
 |24|Swap Nodes In Pairs|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SwapNodesInPairs.java)|------|
 |25|Reverse Nodes In K Group|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ReverseNodesInKGroup.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/ReverseNodesInKGroup.py)|
 |34|Search For A Range|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SearchForARange.java)|------|
