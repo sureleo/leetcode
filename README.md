@@ -29,6 +29,7 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |17|Letter Combinations Of A Phone Number|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/LetterCombinationsOfAPhoneNumber.java)|------|
 |18|4Sum|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/4Sum.java)|------|
 |19|Remove Nth Node From End Of List|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveNthFromEndOfList.py)|
+|20|Valid Parentheses|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ValidParentheses.java)|------|
 |24|Swap Nodes In Pairs|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SwapNodesInPairs.java)|------|
 |25|Reverse Nodes In K Group|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ReverseNodesInKGroup.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/ReverseNodesInKGroup.py)|
 |34|Search For A Range|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SearchForARange.java)|------|
