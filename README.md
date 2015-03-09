@@ -58,7 +58,7 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |96|Unique Binary Search Trees|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/UniqueBinarySearchTrees.java)|------|
 |97|Interleaving String|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/InterleavingString.java)|------|
 |98|Validate Binary Search Tree|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ValidateBinarySearchTree.java)|------|
-|101|Symmetric Tree|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/SymmetricTree.py)|
+|101|Symmetric Tree|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SymmetricTree.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/SymmetricTree.py)|
 |102|Binary Tree Level Order Traversal|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/BinaryTreeLevelOrderTraversal.java)|------|
 |103|Binary Tree Zigzag Level Order Traversal|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/BinaryTreeZigzagLevelOrderTraversal.java)|------|
 |104|Maximum Depth Of Binary Tree|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MaximumDepthOfBinaryTree.java)|------|
