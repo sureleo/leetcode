@@ -41,6 +41,7 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |42|Trapping Rain Water|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/TrappingRainWater.java)|------|
 |46|Permutations|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/Permutations.java)|------|
 |50|Pow(x,n)|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/Powxn.java)|------|
+|51|NQueens|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/NQueens.java)|------|
 |53|Maximum Subarray|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MaximumSubarray.java)|------|
 |56|Merge Intervals|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MergeIntervals.java)|------|
 |57|Insert Interval|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/InsertInterval.java)|------|
