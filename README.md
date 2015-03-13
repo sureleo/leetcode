@@ -88,7 +88,7 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |134|Gas Station|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/GasStation.java)|------|
 |136|Single Number|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SingleNumber.java)|------|
 |138|Copy List With Random Pointer|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/CopyListWithRandomPointer.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/CopyListWithRandomPointer.py)|
-|139|Word Break|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/WordBreak.cpp)|[Java](https://github.com/sureleo/leetcode/blob/master/cpp/WordBreak.java)|------|
+|139|Word Break|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/WordBreak.cpp)|[Java](https://github.com/sureleo/leetcode/blob/master/java/WordBreak.java)|------|
 |141|Linked List Cycle|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/LinkedListCycle.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/LinkedListCycle.py)|
 |143|Reorder List|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/ReorderList.py)|
 |144|Binary Tree Preorder Traversal|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/BinaryTreePreorderTraversal.java)|------|
