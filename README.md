@@ -38,6 +38,7 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |34|Search For A Range|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SearchForARange.java)|------|
 |36|Valid Sudoku|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/ValidSudoku.cpp)|[Java](https://github.com/sureleo/leetcode/blob/master/java/ValidSudoku.java)|------|
 |37|Sudoku Solver|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SudokuSolver.java)|------|
+|39|Combination Sum|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/CombinationSum.java)|------|
 |42|Trapping Rain Water|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/TrappingRainWater.java)|------|
 |46|Permutations|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/Permutations.java)|------|
 |50|Pow(x,n)|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/Powxn.java)|------|
