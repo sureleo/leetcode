@@ -39,8 +39,10 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |36|Valid Sudoku|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/ValidSudoku.cpp)|[Java](https://github.com/sureleo/leetcode/blob/master/java/ValidSudoku.java)|------|
 |37|Sudoku Solver|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SudokuSolver.java)|------|
 |39|Combination Sum|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/CombinationSum.java)|------|
+|40|Combination Sum II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/CombinationSumII.java)|------|
 |42|Trapping Rain Water|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/TrappingRainWater.java)|------|
 |46|Permutations|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/Permutations.java)|------|
+|49|Anagrams|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/Anagrams.java)|------|
 |50|Pow(x,n)|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/Powxn.java)|------|
 |51|NQueens|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/NQueens.java)|------|
 |53|Maximum Subarray|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MaximumSubarray.java)|------|
@@ -59,6 +61,7 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |83|Remove Duplicates From Sorted List|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveDuplicatesFromSortedList.py)|
 |85|Maximal Rectangle|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/MaximalRectangle.cpp)|----|------|
 |89|Gray Code|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/GrayCode.java)|------|
+|90|Subsets II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SubsetsII.java)|------|
 |92|Reverse Linked List II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ReverseLinkedListII.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/ReverseLinkedListII.py)|
 |94|Binary Tree Inorder Traversal|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/BinaryTreeInorderTraversal.py)|
 |96|Unique Binary Search Trees|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/UniqueBinarySearchTrees.java)|------|
