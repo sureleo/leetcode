@@ -15,6 +15,8 @@ Update Jan/19: I'm starting add C++ solution.
 
 Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 
+Update Apr/13: I'm continuing my work. For my girl friend. \yes/!
+
 |#  |Title                                                     |CPP|Java|Python|
 |---|----------------------------------------------------------|---|----|----------------------------------------------------------------------------------------------------------------------|
 |0|-----|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/)|[Java](https://github.com/sureleo/leetcode/blob/master/java/)|[Python](https://github.com/sureleo/leetcode/blob/master/python/)|
@@ -32,6 +34,7 @@ Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
 |19|Remove Nth Node From End Of List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RemoveNthNodeFromEndOfList.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveNthFromEndOfList.py)|
 |20|Valid Parentheses|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ValidParentheses.java)|------|
 |21|Merge Two Sorted Lists|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MergeTwoSortedLists.java)|------|
+|22|GenerateParentheses|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/GenerateParentheses.java)|------|
 |24|Swap Nodes In Pairs|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SwapNodesInPairs.java)|------|
 |25|Reverse Nodes In K Group|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ReverseNodesInKGroup.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/ReverseNodesInKGroup.py)|
 |29|Divide Two Integers|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/DivideTwoIntegers.java)|------|
