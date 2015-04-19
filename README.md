@@ -60,6 +60,7 @@ Update Apr/13: I'm continuing my work. For my girl friend. \yes/!
 |75|Sort Colors|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SortColors.java)|------|
 |76|Minimum Window String|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MinimumWindowString.java)|------|
 |77|Combinations|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/Combinations.java)|------|
+|79|Word Search|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/WordSearch.java)|------|
 |82|Remove Duplicates From Sorted List II|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/RemoveDuplicatesFromSortedListII.cpp)|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveDuplicatesFromSortedListII.py)|
 |83|Remove Duplicates From Sorted List|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveDuplicatesFromSortedList.py)|
 |85|Maximal Rectangle|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/MaximalRectangle.cpp)|----|------|
