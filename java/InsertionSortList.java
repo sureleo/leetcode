@@ -3,31 +3,34 @@
  * public class ListNode {
  *     int val;
  *     ListNode next;
- *     ListNode(int x) {
- *         val = x;
- *         next = null;
- *     }
+ *     ListNode(int x) { val = x; }
  * }
  */
 public class Solution {
     public ListNode insertionSortList(ListNode head) {
-        ListNode dummy = new ListNode(-2147483648);
+        if (head == null || head.next == null) {
+            return head;
+        }
+        
+        ListNode dummy = new ListNode(Integer.MIN_VALUE);
         dummy.next = head;
-        ListNode p = dummy;
-        while ((p != null) && (p.next != null)) {
-            if (p.next.val >= p.val) {
-                p = p.next;
+        ListNode sorted = head;
+        while (sorted.next != null) {
+            if (sorted.next.val >= sorted.val) {
+                sorted = sorted.next;
             } else {
-                ListNode tmp = dummy;
-                while (tmp.next.val < p.next.val) {
-                    tmp = tmp.next;
+                ListNode p = dummy;
+                while (p.next.val < sorted.next.val) {
+                    p = p.next;
                 }
-                ListNode new_tmp = p.next;
-                p.next = p.next.next;
-                new_tmp.next = tmp.next;
-                tmp.next = new_tmp;
+                
+                ListNode tmp = sorted.next;
+                sorted.next = sorted.next.next;
+                tmp.next = p.next;
+                p.next = tmp;
             }
         }
+        
         return dummy.next;
     }
 }
