@@ -62,7 +62,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |77|Combinations|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/Combinations.java)|------|
 |79|Word Search|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/WordSearch.java)|------|
 |82|Remove Duplicates From Sorted List II|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/RemoveDuplicatesFromSortedListII.cpp)|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveDuplicatesFromSortedListII.py)|
-|83|Remove Duplicates From Sorted List|---|[Java](https://github.com/sureleo/leetcode/blob/master/python/RemoveDuplicatesFromSortedList.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveDuplicatesFromSortedList.py)|
+|83|Remove Duplicates From Sorted List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RemoveDuplicatesFromSortedList.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveDuplicatesFromSortedList.py)|
 |85|Maximal Rectangle|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/MaximalRectangle.cpp)|----|------|
 |89|Gray Code|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/GrayCode.java)|------|
 |90|Subsets II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SubsetsII.java)|------|
@@ -115,6 +115,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |173|Binary Search Tree Iterator|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/BinarySearchTreeIterator.java)|------|
 |187|Repeated DNA Sequences|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RepeatedDNASequences.java)|------|
 |189|Rotate Array|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RotateArray.java)|------|
+|203|Remove Linked List Elements|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RemoveLinkedListElements.java)|------|
 |206|Reverse Linked List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ReverseLinkedList.java)|------|
 |234|Palindrome Linked List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/PalindromeLinkedList.java)|------|
 |237|Delete Node in a Linked List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/DeleteNodeInALinkedList.java)|------|
