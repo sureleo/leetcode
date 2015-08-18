@@ -99,7 +99,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |139|Word Break|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/WordBreak.cpp)|[Java](https://github.com/sureleo/leetcode/blob/master/cpp/WordBreak.java)|------|
 |141|Linked List Cycle|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/LinkedListCycle.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/LinkedListCycle.py)|
 |142|Linked List Cycle II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/LinkedListCycleII.java)|------|
-|143|Reorder List|---|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/ReorderList.py)|
+|143|Reorder List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ReorderList.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/ReorderList.py)|
 |144|Binary Tree Preorder Traversal|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/BinaryTreePreorderTraversal.java)|------|
 |145|Binary Tree Postorder Traversal|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/BinaryTreePostorderTraversal.cpp)|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/BinaryTreePostorderTraversal.py)|
 |146|LRU Cache|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/LRUCache.cpp)|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/LRUCache.py)|
