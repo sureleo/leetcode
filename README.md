@@ -61,7 +61,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |76|Minimum Window String|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MinimumWindowString.java)|------|
 |77|Combinations|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/Combinations.java)|------|
 |79|Word Search|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/WordSearch.java)|------|
-|82|Remove Duplicates From Sorted List II|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/RemoveDuplicatesFromSortedListII.cpp)|----|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveDuplicatesFromSortedListII.py)|
+|82|Remove Duplicates From Sorted List II|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/RemoveDuplicatesFromSortedListII.cpp)|[Java](https://github.com/sureleo/leetcode/blob/master/java/RemoveDuplicatesFromSortedListII.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveDuplicatesFromSortedListII.py)|
 |83|Remove Duplicates From Sorted List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RemoveDuplicatesFromSortedList.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveDuplicatesFromSortedList.py)|
 |85|Maximal Rectangle|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/MaximalRectangle.cpp)|----|------|
 |89|Gray Code|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/GrayCode.java)|------|
