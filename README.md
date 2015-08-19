@@ -64,6 +64,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |82|Remove Duplicates From Sorted List II|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/RemoveDuplicatesFromSortedListII.cpp)|[Java](https://github.com/sureleo/leetcode/blob/master/java/RemoveDuplicatesFromSortedListII.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveDuplicatesFromSortedListII.py)|
 |83|Remove Duplicates From Sorted List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RemoveDuplicatesFromSortedList.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveDuplicatesFromSortedList.py)|
 |85|Maximal Rectangle|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/MaximalRectangle.cpp)|----|------|
+|86|Partition List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/PartitionList.java)|------|
 |89|Gray Code|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/GrayCode.java)|------|
 |90|Subsets II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SubsetsII.java)|------|
 |92|Reverse Linked List II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ReverseLinkedListII.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/ReverseLinkedListII.py)|
