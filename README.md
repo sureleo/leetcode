@@ -120,5 +120,6 @@ Update Aug/16: I'm continuing my work. For fun.
 |189|Rotate Array|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RotateArray.java)|------|
 |203|Remove Linked List Elements|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RemoveLinkedListElements.java)|------|
 |206|Reverse Linked List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ReverseLinkedList.java)|------|
+|226|Invert Binary Tree|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/InvertBinaryTree.java)|------|
 |234|Palindrome Linked List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/PalindromeLinkedList.java)|------|
 |237|Delete Node in a Linked List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/DeleteNodeInALinkedList.java)|------|
