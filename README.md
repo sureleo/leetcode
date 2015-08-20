@@ -122,4 +122,5 @@ Update Aug/16: I'm continuing my work. For fun.
 |206|Reverse Linked List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ReverseLinkedList.java)|------|
 |226|Invert Binary Tree|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/InvertBinaryTree.java)|------|
 |234|Palindrome Linked List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/PalindromeLinkedList.java)|------|
-|237|Delete Node in a Linked List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/DeleteNodeInALinkedList.java)|------|
+|237|Delete Node In A Linked List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/DeleteNodeInALinkedList.java)|------|
+|257|Binary Tree Paths|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/BinaryTreePaths.java)|------|
