@@ -7,7 +7,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
-public class Solution {
+public class RecursiveSolution {
     public boolean isSymmetricRecursive(TreeNode root) {
         if (root == null) {
             return true;
@@ -24,11 +24,14 @@ public class Solution {
         }
         return this.check(left.left, right.right) && this.check(left.right, right.left);
     }
+}
 
-    public boolean isSymmetricIterative(TreeNode root) {
+public class IterativeSolution {
+    public boolean isSymmetric(TreeNode root) {
         if (root == null) {
             return true;
         }
+        
         Stack<TreeNode> left = new Stack<TreeNode>();
         Stack<TreeNode> right = new Stack<TreeNode>();
         TreeNode leftRoot = root.left;
@@ -38,24 +41,27 @@ public class Solution {
                 if (rightRoot == null) {
                     return false;
                 }
+                
                 left.push(leftRoot);
                 right.push(rightRoot);
                 leftRoot = leftRoot.left;
                 rightRoot = rightRoot.right;
             } else {
-                if (right.isEmpty() == true || rightRoot != null) {
+                if (right.isEmpty() || rightRoot != null) {
                     return false;
                 }
+                
                 TreeNode currLeft = left.pop();
                 TreeNode currRight = right.pop();
                 if (currLeft.val != currRight.val) {
                     return false;
                 }
+                
                 leftRoot = currLeft.right;
                 rightRoot = currRight.left;
             }
         }
+        
         return right.isEmpty() && rightRoot == null;
     }
-}
 }
