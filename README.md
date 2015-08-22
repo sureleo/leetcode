@@ -69,6 +69,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |90|Subsets II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SubsetsII.java)|------|
 |92|Reverse Linked List II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ReverseLinkedListII.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/ReverseLinkedListII.py)|
 |94|Binary Tree Inorder Traversal|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/BinaryTreeInorderTraversal.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/BinaryTreeInorderTraversal.py)|
+|95|Unique Binary Search Trees II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/UniqueBinarySearchTreesII.java)|------|
 |96|Unique Binary Search Trees|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/UniqueBinarySearchTrees.java)|------|
 |97|Interleaving String|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/InterleavingString.java)|------|
 |98|Validate Binary Search Tree|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ValidateBinarySearchTree.java)|------|
