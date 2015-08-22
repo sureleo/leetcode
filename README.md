@@ -87,6 +87,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |112|Path Sum|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/PathSum.java)|------|
 |113|Path Sum II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/PathSumII.java)|------|
 |114|Flatten Binary Tree To Linked List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/FlattenBinaryTreeToLinkedList.java)|------|
+|116|Populating Next Right Pointers In Each Node|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/PopulatingNextRightPointersInEachNode.java)|------|
 |117|Populating Next Right Pointers In Each Node II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/PopulatingNextRightPointersInEachNodeII.java)|------|
 |118|Pascal's Triangle|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/PascalsTriangle.java)|------|
 |119|Pascal's Triangle II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/PascalsTriangleII.java)|------|
