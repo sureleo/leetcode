@@ -124,6 +124,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |199|Binary Tree Right Side View|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/BinaryTreeRightSideView.java)|------|
 |202|Happy Number|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/HappyNumber.java)|------|
 |203|Remove Linked List Elements|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RemoveLinkedListElements.java)|------|
+|204|Count Primes|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/CountPrimes.java)|------|
 |205|Isomorphic Strings|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/IsomorphicStrings.java)|------|
 |206|Reverse Linked List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ReverseLinkedList.java)|------|
 |217|Contains Duplicate|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ContainsDuplicate.java)|------|
