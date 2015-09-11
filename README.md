@@ -116,6 +116,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |160|Intersection Of Two Linked Lists|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/IntersectionOfTwoLinkedLists.java)|------|
 |162|Find Peak Element|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/FindPeakElement.java)|------|
 |165|Compare Version Numbers|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/CompareVersionNumbers.java)|------|
+|166|Fraction To Recurring Decimal|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/FractionToRecurringDecimal.java)|------|
 |168|Excel Sheet Column Title|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ExcelSheetColumnTitle.java)|------|
 |169|Majority Element|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MajorityElement.java)|------|
 |173|Binary Search Tree Iterator|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/BinarySearchTreeIterator.java)|------|
