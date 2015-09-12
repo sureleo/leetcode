@@ -122,6 +122,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |173|Binary Search Tree Iterator|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/BinarySearchTreeIterator.java)|------|
 |187|Repeated DNA Sequences|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RepeatedDNASequences.java)|------|
 |189|Rotate Array|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RotateArray.java)|------|
+|198|House Robber|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/HouseRobber.java)|------|
 |199|Binary Tree Right Side View|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/BinaryTreeRightSideView.java)|------|
 |202|Happy Number|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/HappyNumber.java)|------|
 |203|Remove Linked List Elements|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RemoveLinkedListElements.java)|------|
