@@ -45,7 +45,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |40|Combination Sum II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/CombinationSumII.java)|------|
 |42|Trapping Rain Water|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/TrappingRainWater.java)|------|
 |46|Permutations|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/Permutations.java)|------|
-|49|Anagrams|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/Anagrams.java)|------|
+|49|Group Anagrams|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/GroupAnagrams.java)|------|
 |50|Pow(x,n)|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/Powxn.java)|------|
 |51|NQueens|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/NQueens.java)|------|
 |53|Maximum Subarray|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MaximumSubarray.java)|------|
