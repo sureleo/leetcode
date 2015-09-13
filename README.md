@@ -52,6 +52,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |56|Merge Intervals|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MergeIntervals.java)|------|
 |57|Insert Interval|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/InsertInterval.java)|------|
 |61|Rotate List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RotateList.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/RotateList.py)|
+|62|Unique Paths|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/UniquePaths.java)|------|
 |64|Minimum Path Sum|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MinimumPathSum.java)|------|
 |67|Add Binary|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/AddBinary.java)|------|
 |70|Climbing Stairs|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/ClimbingStairs.cpp)|[Java](https://github.com/sureleo/leetcode/blob/master/java/ClimbingStairs.java)|------|
