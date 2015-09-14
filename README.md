@@ -69,6 +69,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |86|Partition List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/PartitionList.java)|------|
 |89|Gray Code|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/GrayCode.java)|------|
 |90|Subsets II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SubsetsII.java)|------|
+|91|Decode Ways|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/DecodeWays.java)|------|
 |92|Reverse Linked List II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ReverseLinkedListII.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/ReverseLinkedListII.py)|
 |94|Binary Tree Inorder Traversal|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/BinaryTreeInorderTraversal.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/BinaryTreeInorderTraversal.py)|
 |95|Unique Binary Search Trees II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/UniqueBinarySearchTreesII.java)|------|
