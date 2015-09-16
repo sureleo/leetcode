@@ -138,6 +138,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |205|Isomorphic Strings|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/IsomorphicStrings.java)|------|
 |206|Reverse Linked List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ReverseLinkedList.java)|------|
 |208|Implement Trie (Prefix Tree)|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ImplementTrie.java)|------|
+|211|Add and Search Word - Data structure design|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/AddAndSearchWordDataStructureDesign.java)|------|
 |213|House Robber II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/HouseRobberII.java)|------|
 |217|Contains Duplicate|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ContainsDuplicate.java)|------|
 |219|Contains Duplicate II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ContainsDuplicateII.java)|------|
