@@ -140,6 +140,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |208|Implement Trie (Prefix Tree)|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ImplementTrie.java)|------|
 |211|Add and Search Word - Data structure design|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/AddAndSearchWordDataStructureDesign.java)|------|
 |213|House Robber II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/HouseRobberII.java)|------|
+|216|Combination Sum III|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/CombinationSumIII.java)|------|
 |217|Contains Duplicate|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ContainsDuplicate.java)|------|
 |219|Contains Duplicate II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ContainsDuplicateII.java)|------|
 |221|Maximal Square|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MaximalSquare.java)|------|
