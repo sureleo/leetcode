@@ -52,6 +52,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |53|Maximum Subarray|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MaximumSubarray.java)|------|
 |56|Merge Intervals|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MergeIntervals.java)|------|
 |57|Insert Interval|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/InsertInterval.java)|------|
+|60|Permutation Sequence|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/PermutationSequence.java)|------|
 |61|Rotate List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RotateList.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/RotateList.py)|
 |62|Unique Paths|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/UniquePaths.java)|------|
 |63|Unique Paths II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/UniquePathsII.java)|------|
