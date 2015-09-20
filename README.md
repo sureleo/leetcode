@@ -58,6 +58,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |63|Unique Paths II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/UniquePathsII.java)|------|
 |64|Minimum Path Sum|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MinimumPathSum.java)|------|
 |67|Add Binary|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/AddBinary.java)|------|
+|69|Sqrt(x)|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SqrtX.java)|------|
 |70|Climbing Stairs|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/ClimbingStairs.cpp)|[Java](https://github.com/sureleo/leetcode/blob/master/java/ClimbingStairs.java)|------|
 |72|Edit Distance|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/EditDistance.java)|------|
 |74|Search A 2D Matrix|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SearchA2DMatrix.java)|------|
