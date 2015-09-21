@@ -161,6 +161,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |242|Valid Anagram|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ValidAnagram.java)|------|
 |257|Binary Tree Paths|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/BinaryTreePaths.java)|------|
 |264|Ugly Number II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/UglyNumberII.java)|------|
-|274|H Index|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/HIndex.java)|------|
+|274|H-Index|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/HIndex.java)|------|
+|275|H-Index II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/HIndexII.java)|------|
 |278|First Bad Version|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/FirstBadVersion.java)|------|
 |279|Perfect Squares|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/PerfectSquares.java)|------|
