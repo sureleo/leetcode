@@ -38,6 +38,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |24|Swap Nodes In Pairs|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SwapNodesInPairs.java)|------|
 |25|Reverse Nodes In K Group|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ReverseNodesInKGroup.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/ReverseNodesInKGroup.py)|
 |29|Divide Two Integers|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/DivideTwoIntegers.java)|------|
+|33|Search In Rotated Sorted Array|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SearchInRotatedSortedArray.java)|------|
 |34|Search For A Range|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SearchForARange.java)|------|
 |36|Valid Sudoku|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/ValidSudoku.cpp)|[Java](https://github.com/sureleo/leetcode/blob/master/java/ValidSudoku.java)|------|
 |37|Sudoku Solver|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SudokuSolver.java)|------|
