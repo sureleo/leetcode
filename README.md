@@ -149,6 +149,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |209|Minimum Size Subarray Sum|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MinimumSizeSubarraySum.java)|------|
 |211|Add and Search Word - Data structure design|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/AddAndSearchWordDataStructureDesign.java)|------|
 |213|House Robber II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/HouseRobberII.java)|------|
+|215|Kth Largest Element In An Array|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/KthLargestElementInAnArray.java)|------|
 |216|Combination Sum III|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/CombinationSumIII.java)|------|
 |217|Contains Duplicate|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ContainsDuplicate.java)|------|
 |219|Contains Duplicate II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ContainsDuplicateII.java)|------|
