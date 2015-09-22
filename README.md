@@ -40,6 +40,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |29|Divide Two Integers|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/DivideTwoIntegers.java)|------|
 |33|Search In Rotated Sorted Array|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SearchInRotatedSortedArray.java)|------|
 |34|Search For A Range|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SearchForARange.java)|------|
+|35|Search Insert Position|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SearchInsertPosition.java)|------|
 |36|Valid Sudoku|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/ValidSudoku.cpp)|[Java](https://github.com/sureleo/leetcode/blob/master/java/ValidSudoku.java)|------|
 |37|Sudoku Solver|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SudokuSolver.java)|------|
 |39|Combination Sum|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/CombinationSum.java)|------|
