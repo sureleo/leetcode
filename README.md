@@ -125,6 +125,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |150|Evaluate Reverse Polish Notation|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/EvaluateReversePolishNotation.java)|------|
 |151|Reverse Words In A String|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ReverseWordsInAString.java)|------|
 |152|Maximum Product Subarray|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MaximumProductSubarray.java)|------|
+|153|Find Minimum In Rotated Sorted Array|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/FindMinimumInRotatedSortedArray.java)|------|
 |155|Min Stack|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MinStack.java)|------|
 |160|Intersection Of Two Linked Lists|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/IntersectionOfTwoLinkedLists.java)|------|
 |162|Find Peak Element|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/FindPeakElement.java)|------|
