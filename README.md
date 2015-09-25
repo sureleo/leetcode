@@ -26,6 +26,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |5|Longest Palindrome Substring|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/LongestPalindromeSubstring.java)|------|
 |7|Reverse Integer|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ReverseInteger.java)|------|
 |8|String To Integer|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/StringToInteger.java)|------|
+|11|Container With Most Water|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ContainerWithMostWater.java)|------|
 |14|Longest Common Prefix|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/LongestCommonPrefix.java)|------|
 |15|3Sum|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/3Sum.java)|------|
 |16|3Sum Closest|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/3SumClosest.java)|------|
@@ -72,7 +73,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |77|Combinations|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/Combinations.java)|------|
 |78|Subsets|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/Subsets.java)|------|
 |79|Word Search|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/WordSearch.java)|------|
-|80|Remove Duplicates From Sorted Array II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RemoveDuplicatesFromSortedArray II.java)|------|
+|80|Remove Duplicates From Sorted Array II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RemoveDuplicatesFromSortedArrayII.java)|------|
 |81|Search In Rotated Sorted Array II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SearchInRotatedSortedArrayII.java)|------|
 |82|Remove Duplicates From Sorted List II|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/RemoveDuplicatesFromSortedListII.cpp)|[Java](https://github.com/sureleo/leetcode/blob/master/java/RemoveDuplicatesFromSortedListII.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveDuplicatesFromSortedListII.py)|
 |83|Remove Duplicates From Sorted List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RemoveDuplicatesFromSortedList.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/RemoveDuplicatesFromSortedList.py)|

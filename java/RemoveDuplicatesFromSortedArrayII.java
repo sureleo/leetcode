@@ -1,3 +1,5 @@
+// http://www.programcreek.com/2013/01/leetcode-remove-duplicates-from-sorted-array-ii-java/
+// this problem is actually 3 pointers...
 public class Solution {
     public int removeDuplicates(int[] nums) {
         if (nums.length <= 2) {
