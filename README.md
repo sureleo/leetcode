@@ -37,6 +37,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |22|Generate Parentheses|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/GenerateParentheses.java)|------|
 |24|Swap Nodes In Pairs|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SwapNodesInPairs.java)|------|
 |25|Reverse Nodes In K Group|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ReverseNodesInKGroup.java)|[Python](https://github.com/sureleo/leetcode/blob/master/python/ReverseNodesInKGroup.py)|
+|26|Remove Duplicates From Sorted Array|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RemoveDuplicatesFromSortedArray.java)|------|
 |27|Remove Element|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RemoveElement.java)|------|
 |29|Divide Two Integers|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/DivideTwoIntegers.java)|------|
 |33|Search In Rotated Sorted Array|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SearchInRotatedSortedArray.java)|------|
