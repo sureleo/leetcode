@@ -66,6 +66,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |67|Add Binary|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/AddBinary.java)|------|
 |69|Sqrt(x)|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SqrtX.java)|------|
 |70|Climbing Stairs|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/ClimbingStairs.cpp)|[Java](https://github.com/sureleo/leetcode/blob/master/java/ClimbingStairs.java)|------|
+|71|Simplify Path|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SimplifyPath.java)|------|
 |72|Edit Distance|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/EditDistance.java)|------|
 |74|Search A 2D Matrix|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SearchA2DMatrix.java)|------|
 |75|Sort Colors|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SortColors.java)|------|
