@@ -14,3 +14,19 @@ public class Solution {
         return sb.reverse().toString();
     }
 }
+
+// This solution is way more succint than mine.
+// http://www.programcreek.com/2014/03/leetcode-excel-sheet-column-title-java/
+public class Solution {
+    public String convertToTitle(int n) {
+        StringBuilder sb = new StringBuilder();
+        
+        while (n > 0) {
+            n --;
+            sb.append((char)(n % 26 + 'A'));
+            n = n / 26;
+        }
+        
+        return sb.reverse().toString();
+    }
+}
