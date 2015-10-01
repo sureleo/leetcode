@@ -168,6 +168,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |232|Implement Queue Using Stacks|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ImplementQueueUsingStacks.java)|------|
 |226|Invert Binary Tree|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/InvertBinaryTree.java)|------|
 |230|Kth Smallest Element In A BST|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/KthSmallestElementInABST.java)|------|
+|231|Power Of Two|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/PowerOfTwo.java)|------|
 |234|Palindrome Linked List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/PalindromeLinkedList.java)|------|
 |235|Lowest Common Ancestor Of A Binary Search Tree|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/LowestCommonAncestorOfABinarySearchTree.java)|------|
 |236|Lowest Common Ancestor Of A Binary Tree|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/LowestCommonAncestorOfABinaryTree.java)|------|
