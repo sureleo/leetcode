@@ -26,6 +26,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |5|Longest Palindrome Substring|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/LongestPalindromeSubstring.java)|------|
 |7|Reverse Integer|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ReverseInteger.java)|------|
 |8|String To Integer|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/StringToInteger.java)|------|
+|9|Palindrome Number|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/PalindromeNumber.java)|------|
 |11|Container With Most Water|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ContainerWithMostWater.java)|------|
 |14|Longest Common Prefix|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/LongestCommonPrefix.java)|------|
 |15|3Sum|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/3Sum.java)|------|
