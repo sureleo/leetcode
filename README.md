@@ -171,10 +171,11 @@ Update Aug/16: I'm continuing my work. For fun.
 |223|Rectangle Area|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RectangleArea.java)|------|
 |224|Basic Calculator|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/BasicCalculator.java)|------|
 |225|Implement Stack Using Queues|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ImplementStackUsingQueues.java)|------|
-|232|Implement Queue Using Stacks|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ImplementQueueUsingStacks.java)|------|
 |226|Invert Binary Tree|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/InvertBinaryTree.java)|------|
 |230|Kth Smallest Element In A BST|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/KthSmallestElementInABST.java)|------|
 |231|Power Of Two|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/PowerOfTwo.java)|------|
+|232|Implement Queue Using Stacks|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ImplementQueueUsingStacks.java)|------|
+|233|Number Of Digit One|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/NumberOfDigitOne.java)|------|
 |234|Palindrome Linked List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/PalindromeLinkedList.java)|------|
 |235|Lowest Common Ancestor Of A Binary Search Tree|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/LowestCommonAncestorOfABinarySearchTree.java)|------|
 |236|Lowest Common Ancestor Of A Binary Tree|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/LowestCommonAncestorOfABinaryTree.java)|------|
