@@ -15,7 +15,7 @@ public class MathSolution {
 
 // http://traceformula.blogspot.com/2015/09/missing-number-leetcode.html 
 // This bit manipulation solution is so smart!
-public class MathSolution {
+public class BitManipulationSolution {
     public int missingNumber(int[] nums) {
         int result = 0;
         for (int i = 0; i < nums.length; i++) {
