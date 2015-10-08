@@ -151,6 +151,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |171|Excel Sheet Column Number|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ExcelSheetColumnNumber.java)|------|
 |172|Factorial Trailing Zeroes|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/FactorialTrailingZeroes.java)|------|
 |173|Binary Search Tree Iterator|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/BinarySearchTreeIterator.java)|------|
+|179|Largest Number|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/BinaryLargestNumber.java)|------|
 |187|Repeated DNA Sequences|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RepeatedDNASequences.java)|------|
 |188|Best Time To Buy And Sell Stock IV|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/BestTimeToBuyAndSellStockIV.java)|------|
 |189|Rotate Array|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RotateArray.java)|------|
