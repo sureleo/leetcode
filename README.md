@@ -60,6 +60,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |50|Pow(x,n)|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/Powxn.java)|------|
 |51|NQueens|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/NQueens.java)|------|
 |53|Maximum Subarray|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MaximumSubarray.java)|------|
+|55|Jump Game|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/JumpGame.java)|------|
 |56|Merge Intervals|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MergeIntervals.java)|------|
 |57|Insert Interval|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/InsertInterval.java)|------|
 |60|Permutation Sequence|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/PermutationSequence.java)|------|
