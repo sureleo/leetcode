@@ -168,6 +168,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |204|Count Primes|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/CountPrimes.java)|------|
 |205|Isomorphic Strings|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/IsomorphicStrings.java)|------|
 |206|Reverse Linked List|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ReverseLinkedList.java)|------|
+|207|Course Schedule|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/CourseSchedule.java)|------|
 |208|Implement Trie (Prefix Tree)|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ImplementTrie.java)|------|
 |209|Minimum Size Subarray Sum|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MinimumSizeSubarraySum.java)|------|
 |211|Add and Search Word - Data structure design|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/AddAndSearchWordDataStructureDesign.java)|------|
