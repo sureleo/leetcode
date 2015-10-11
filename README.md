@@ -178,6 +178,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |216|Combination Sum III|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/CombinationSumIII.java)|------|
 |217|Contains Duplicate|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ContainsDuplicate.java)|------|
 |219|Contains Duplicate II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ContainsDuplicateII.java)|------|
+|220|Contains Duplicate III|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ContainsDuplicateIII.java)|------|
 |221|Maximal Square|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MaximalSquare.java)|------|
 |222|Count Complete Tree Nodes|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/CountCompleteTreeNodes.java)|------|
 |223|Rectangle Area|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RectangleArea.java)|------|
