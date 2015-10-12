@@ -51,6 +51,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |35|Search Insert Position|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SearchInsertPosition.java)|------|
 |36|Valid Sudoku|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/ValidSudoku.cpp)|[Java](https://github.com/sureleo/leetcode/blob/master/java/ValidSudoku.java)|------|
 |37|Sudoku Solver|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SudokuSolver.java)|------|
+|38|Count And Say|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/CountAndSay.java)|------|
 |39|Combination Sum|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/CombinationSum.java)|------|
 |40|Combination Sum II|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/CombinationSumII.java)|------|
 |42|Trapping Rain Water|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/TrappingRainWater.java)|------|
