@@ -1,3 +1,5 @@
+// http://www.programcreek.com/2014/05/leetcode-zigzag-conversion-java/
+// this solution is really clean
 public class Solution {
     public String convert(String s, int numRows) {
         if (numRows == 1) {
