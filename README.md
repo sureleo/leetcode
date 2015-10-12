@@ -24,6 +24,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |2|Add Two Numbers|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/AddTwoNumbers.java)|------|
 |3|Longest Substring Without Repeating Characters|[CPP](https://github.com/sureleo/leetcode/blob/master/cpp/LongestSubstringWithoutRepeatingCharacters.cpp)|[Java](https://github.com/sureleo/leetcode/blob/master/java/LongestSubstringWithoutRepeatingCharacters.java)|------|
 |5|Longest Palindrome Substring|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/LongestPalindromeSubstring.java)|------|
+|6|ZigZag Conversion|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ZigZagConversion.java)|------|
 |7|Reverse Integer|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ReverseInteger.java)|------|
 |8|String To Integer|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/StringToInteger.java)|------|
 |9|Palindrome Number|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/PalindromeNumber.java)|------|
