@@ -208,4 +208,5 @@ Update Aug/16: I'm continuing my work. For fun.
 |278|First Bad Version|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/FirstBadVersion.java)|------|
 |279|Perfect Squares|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/PerfectSquares.java)|------|
 |283|Move Zeroes|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/MoveZeroes.java)|------|
+|284|Peeking Iterator|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/PeekingIterator.java)|------|
 |290|Word Pattern|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/WordPattern.java)|------|
