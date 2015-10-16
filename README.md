@@ -46,6 +46,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |27|Remove Element|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/RemoveElement.java)|------|
 |28|Implement strStr()|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/ImplementStrStr.java)|------|
 |29|Divide Two Integers|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/DivideTwoIntegers.java)|------|
+|31|Next Permutation|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/NextPermutation.java)|------|
 |33|Search In Rotated Sorted Array|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SearchInRotatedSortedArray.java)|------|
 |34|Search For A Range|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SearchForARange.java)|------|
 |35|Search Insert Position|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/SearchInsertPosition.java)|------|
