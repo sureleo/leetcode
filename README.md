@@ -91,7 +91,6 @@ Update Aug/16: I'm continuing my work. For fun.
 |81|Search In Rotated Sorted Array II|[Solution](https://github.com/sureleo/leetcode/blob/master/java/SearchInRotatedSortedArrayII.java)|
 |82|Remove Duplicates From Sorted List II|[Solution](https://github.com/sureleo/leetcode/blob/master/java/RemoveDuplicatesFromSortedListII.java)|
 |83|Remove Duplicates From Sorted List|[Solution](https://github.com/sureleo/leetcode/blob/master/java/RemoveDuplicatesFromSortedList.java)|
-|85|Maximal Rectangle|----|
 |86|Partition List|[Solution](https://github.com/sureleo/leetcode/blob/master/java/PartitionList.java)|
 |88|Merge Sorted Array|[Solution](https://github.com/sureleo/leetcode/blob/master/java/MergeSortedArray.java)|
 |89|Gray Code|[Solution](https://github.com/sureleo/leetcode/blob/master/java/GrayCode.java)|
@@ -143,8 +142,6 @@ Update Aug/16: I'm continuing my work. For fun.
 |142|Linked List Cycle II|[Solution](https://github.com/sureleo/leetcode/blob/master/java/LinkedListCycleII.java)|
 |143|Reorder List|[Solution](https://github.com/sureleo/leetcode/blob/master/java/ReorderList.java)|
 |144|Binary Tree Preorder Traversal|[Solution](https://github.com/sureleo/leetcode/blob/master/java/BinaryTreePreorderTraversal.java)|
-|145|Binary Tree Postorder Traversal|----|
-|146|LRU Cache|----|
 |147|Insertion Sort List|[Solution](https://github.com/sureleo/leetcode/blob/master/java/InsertionSortList.java)|
 |148|Sort List|[Solution](https://github.com/sureleo/leetcode/blob/master/java/SortList.java)|
 |150|Evaluate Reverse Polish Notation|[Solution](https://github.com/sureleo/leetcode/blob/master/java/EvaluateReversePolishNotation.java)|
