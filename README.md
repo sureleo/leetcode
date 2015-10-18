@@ -223,3 +223,4 @@ Update Aug/16: I'm continuing my work. For fun.
 |284|Peeking Iterator|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/PeekingIterator.java)|------|
 |289|Game Of Life|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/GameOfLife.java)|------|
 |290|Word Pattern|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/WordPattern.java)|------|
+|292|Nim Game|---|[Java](https://github.com/sureleo/leetcode/blob/master/java/NimGame.java)|------|
