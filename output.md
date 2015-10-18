@@ -1,3 +1,22 @@
+leetcode
+========
+
+This is for the record. --- Captain Price
+
+Some of the codes are from Internet. Please let me know if you uncomfortable that I cited your code.
+
+I will add "cite from xxxx's blog" after commit 5c12d182238be056fd2ca6c98adeacdee1f254ed if I have refered somebody's code.
+
+Happy coding Happy Life.
+
+Discussions are welcomed.
+
+Update Jan/19: I'm starting add C++ solution.
+
+Update Feb/11: I'm starting add Java Solution. FOR EXPEDIA!
+
+Update Aug/16: I'm continuing my work. For fun.
+
 |#  |Title                                                     |Java|
 |---|----------------------------------------------------------|----|
 |0|-----|[Java](https://github.com/sureleo/leetcode/blob/master/java/)|
