@@ -218,6 +218,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |279|Perfect Squares|[Solution](https://github.com/sureleo/leetcode/blob/master/java/PerfectSquares.java)|
 |283|Move Zeroes|[Solution](https://github.com/sureleo/leetcode/blob/master/java/MoveZeroes.java)|
 |284|Peeking Iterator|[Solution](https://github.com/sureleo/leetcode/blob/master/java/PeekingIterator.java)|
+|287|Find The Duplicate Number|[Solution](https://github.com/sureleo/leetcode/blob/master/java/FindTheDuplicateNumber.java)|
 |289|Game Of Life|[Solution](https://github.com/sureleo/leetcode/blob/master/java/GameOfLife.java)|
 |290|Word Pattern|[Solution](https://github.com/sureleo/leetcode/blob/master/java/WordPattern.java)|
 |292|Nim Game|[Solution](https://github.com/sureleo/leetcode/blob/master/java/NimGame.java)|
