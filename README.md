@@ -221,3 +221,4 @@ Update Aug/16: I'm continuing my work. For fun.
 |289|Game Of Life|[Solution](https://github.com/sureleo/leetcode/blob/master/java/GameOfLife.java)|
 |290|Word Pattern|[Solution](https://github.com/sureleo/leetcode/blob/master/java/WordPattern.java)|
 |292|Nim Game|[Solution](https://github.com/sureleo/leetcode/blob/master/java/NimGame.java)|
+|295|Find Median From Data Stream|[Solution](https://github.com/sureleo/leetcode/blob/master/java/FindMedianFromDataStream.java)|
