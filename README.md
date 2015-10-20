@@ -216,6 +216,7 @@ Update Aug/16: I'm continuing my work. For fun.
 |275|H-Index II|[Solution](https://github.com/sureleo/leetcode/blob/master/java/HIndexII.java)|
 |278|First Bad Version|[Solution](https://github.com/sureleo/leetcode/blob/master/java/FirstBadVersion.java)|
 |279|Perfect Squares|[Solution](https://github.com/sureleo/leetcode/blob/master/java/PerfectSquares.java)|
+|282|Expression Add Operators|[Solution](https://github.com/sureleo/leetcode/blob/master/java/ExpressionAddOperators.java)|
 |283|Move Zeroes|[Solution](https://github.com/sureleo/leetcode/blob/master/java/MoveZeroes.java)|
 |284|Peeking Iterator|[Solution](https://github.com/sureleo/leetcode/blob/master/java/PeekingIterator.java)|
 |287|Find The Duplicate Number|[Solution](https://github.com/sureleo/leetcode/blob/master/java/FindTheDuplicateNumber.java)|
