@@ -1,52 +1,46 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode(int x) {
- *         val = x;
- *         next = null;
- *     }
- * }
- */
 public class Solution {
-    public ListNode rotateRight(ListNode head, int n) {
-        if (head == null) {
-            return head;
-        }
-        ListNode dummy = new ListNode(0);
-        dummy.next = head;
-        ListNode slow = head;
-        ListNode fast = head;
-        n = n % this.getLength(head);
-        if (n == 0) {
-            return head;
-        }
-        int i = 0;
-        while (i < n) {
-            fast = fast.next;
-            i += 1;
+    public ListNode rotateRight(ListNode head, int k) {
+        int length = getLength(head);
+        if (length == 0) {
+            return null;
         }
         
+        int realK = k % length;
+        if (realK == 0) {
+            return head;
+        }
+        
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+        ListNode fast = dummy;
+        int i = 0;
+        while (i < realK) {
+            i++;
+            fast = fast.next;
+        }
+        
+        ListNode slow = dummy;
         while (fast.next != null) {
             fast = fast.next;
             slow = slow.next;
         }
         
         ListNode temp = slow.next;
-        fast.next = dummy.next;
         slow.next = null;
+        fast.next = dummy.next;
         dummy.next = temp;
         return dummy.next;
     }
     
-    public int getLength(ListNode head) {
+    private int getLength(ListNode head) {
         ListNode p = head;
-        int length = 1;
-        while (p.next != null) {
+        int result = 0;
+        
+        while (p != null) {
             p = p.next;
-            length += 1;
+            result ++;
         }
-        return length;
+        
+        return result;
     }
-}
+ }
