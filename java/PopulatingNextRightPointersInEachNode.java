@@ -12,15 +12,9 @@ public class Solution {
             return;
         }
         
-        if (root.left == null) {
-            return;
-        }
-        
-        root.left.next = root.right;
-        if (root.next == null) {
-            root.right.next = null;
-        } else {
-            root.right.next = root.next.left;
+        if (root.left != null) {
+            root.left.next = root.right;
+            root.right.next = root.next == null ? null : root.next.left;
         }
         
         connect(root.right);
