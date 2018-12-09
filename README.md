@@ -227,5 +227,5 @@ Update Aug/16: I'm continuing my work. For fun.
 |292|Nim Game|[Solution](https://github.com/sureleo/leetcode/blob/master/java/NimGame.java)|
 |295|Find Median From Data Stream|[Solution](https://github.com/sureleo/leetcode/blob/master/java/FindMedianFromDataStream.java)|
 |297|Serialize And Deserialize Binary Tree|[Solution](https://github.com/sureleo/leetcode/blob/master/java/SerializeAndDeserializeBinaryTree.java)|
-|450|Delete Node in a BST|[Solution]|
-(https://github.com/sureleo/leetcode/blob/master/java/DeleteNodeInBST.java)
+|450|Delete Node in a BST|[Solution]
+(https://github.com/sureleo/leetcode/blob/master/java/DeleteNodeInBST.java)|
