@@ -228,3 +228,4 @@ Update Aug/16: I'm continuing my work. For fun.
 |295|Find Median From Data Stream|[Solution](https://github.com/sureleo/leetcode/blob/master/java/FindMedianFromDataStream.java)|
 |297|Serialize And Deserialize Binary Tree|[Solution](https://github.com/sureleo/leetcode/blob/master/java/SerializeAndDeserializeBinaryTree.java)|
 |450|Delete Node in A BST|[Solution](https://github.com/sureleo/leetcode/blob/master/java/DeleteNodeInBST.java)|
+|784|Letter Case Permutation|[Solution](https://github.com/sureleo/leetcode/blob/master/java/backtracking/trivial/LetterCasePermutation.java)
