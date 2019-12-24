@@ -1,38 +1,45 @@
-/**
- * Definition for undirected graph.
- * class UndirectedGraphNode {
- *     int label;
- *     List<UndirectedGraphNode> neighbors;
- *     UndirectedGraphNode(int x) { label = x; neighbors = new ArrayList<UndirectedGraphNode>(); }
- * };
- */
-public class Solution {
-    public UndirectedGraphNode cloneGraph(UndirectedGraphNode node) {
-        if (node == null) {
-            return null;
-        }
-        
-        Queue<UndirectedGraphNode> queue = new LinkedList<UndirectedGraphNode>();
-        UndirectedGraphNode newHead = new UndirectedGraphNode(node.label);
-        Map<UndirectedGraphNode, UndirectedGraphNode> map = new HashMap<UndirectedGraphNode, UndirectedGraphNode>();
-        map.put(node, newHead);
+/*
+// Definition for a Node.
+class Node {
+    public int val;
+    public List<Node> neighbors;
+
+    public Node() {}
+
+    public Node(int _val,List<Node> _neighbors) {
+        val = _val;
+        neighbors = _neighbors;
+    }
+};
+*/
+class Solution {
+    public Node cloneGraph(Node node) {
+        Map<Node, Node> map = new HashMap<>();
+        Queue<Node> queue = new LinkedList<>();
         queue.offer(node);
-        while (queue.size() > 0) {
-            UndirectedGraphNode curr = queue.poll();
-            List<UndirectedGraphNode> currNeighbors = curr.neighbors;
-            for (int i = 0; i < currNeighbors.size(); i++) {
-                UndirectedGraphNode currCopy = map.get(curr);
-                if (map.containsKey(currNeighbors.get(i)) == false) {
-                    UndirectedGraphNode neighborCopy = new UndirectedGraphNode(currNeighbors.get(i).label);
-                    currCopy.neighbors.add(neighborCopy);
-                    map.put(currNeighbors.get(i), neighborCopy);
-                    queue.offer(currNeighbors.get(i));
-                } else {
-                    currCopy.neighbors.add(map.get(currNeighbors.get(i)));
+        
+        while (!queue.isEmpty()) {
+            Node topNode = queue.poll();
+            
+            if (!map.containsKey(topNode)) {
+                Node copy = new Node(topNode.val, new ArrayList<>());
+                map.put(topNode, copy);
+            }
+            
+            Node copy = map.get(topNode);
+            List<Node> neighbors = topNode.neighbors;
+            
+            for (Node n : neighbors) {
+                if (!map.containsKey(n)) {
+                    Node c = new Node(n.val, new ArrayList<>());
+                    map.put(n, c);
+                    queue.offer(n);
                 }
+                
+                copy.neighbors.add(map.get(n));
             }
         }
-
-        return newHead;
+        
+        return map.get(node);
     }
 }
