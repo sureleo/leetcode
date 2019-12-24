@@ -233,5 +233,6 @@ Update Aug/16: I'm continuing my work. For fun.
 |426|Convert Binary Search Tree to Sorted Doubly Linked List|[Solution](https://github.com/sureleo/leetcode/blob/master/java/ConvertBinarySearchTreeToSortedDoublyLinkedList.java)|
 |443|String Compression|[Solution](https://github.com/sureleo/leetcode/blob/master/java/StringCompression.java)|
 |450|Delete Node in A BST|[Solution](https://github.com/sureleo/leetcode/blob/master/java/DeleteNodeInBST.java)|
+|490|The Maze|[Solution](https://github.com/sureleo/leetcode/blob/master/java/TheMaze.java)|
 |784|Letter Case Permutation|[Solution](https://github.com/sureleo/leetcode/blob/master/java/backtracking/trivial/LetterCasePermutation.java)
 |1007|Minimum Domino Rotations For Equal Row|[Solution](https://github.com/sureleo/leetcode/blob/master/java/MinimumDominoRotationsForEqualRow.java)
